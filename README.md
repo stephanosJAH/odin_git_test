@@ -1,2 +1,2 @@
 # odin_git_test
-Odin proyect
+Practic for Odin Proyect.
